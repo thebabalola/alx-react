@@ -1,4 +1,4 @@
-## 0x06. Alx React Immutable
+The README for Alx React Immutable Task
 
 ## Resources
 **Read or watch:**
